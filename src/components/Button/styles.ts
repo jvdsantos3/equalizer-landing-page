@@ -15,6 +15,7 @@ export const ButtonContainer = styled.button<ButtonContainerProps>`
   font-size: 1.125rem;
   line-height: 1.4375rem;
   font-weight: 700;
+  cursor: pointer;
 
   display: flex;
   justify-content: center;
